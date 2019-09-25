@@ -1,5 +1,9 @@
 # Mo_Roads
-This Python file computes the minimal spanning tree of all missouri cities using Prim's algorithm.
+
+TODO: Re-calibrate the graph edges to account for the shape of the Earth
+      Do the entirety of the united states next
+
+This Python file computes the minimal spanning tree of all missouri cities using Prim's algorithm. 
 
 The python library I used is matplotlib. If matplotlib's library does not show the graph at the end, try running the python file in 32 bit mode.
 
